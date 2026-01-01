@@ -1,0 +1,51 @@
+[0.162s] Invoking command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake /home/ziyue/Project/chapt6/chapt6_ws/src/fishbot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2
+[0.199s] -- The C compiler identification is GNU 11.4.0
+[0.241s] -- The CXX compiler identification is GNU 11.4.0
+[0.248s] -- Detecting C compiler ABI info
+[0.301s] -- Detecting C compiler ABI info - done
+[0.306s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.307s] -- Detecting C compile features
+[0.307s] -- Detecting C compile features - done
+[0.309s] -- Detecting CXX compiler ABI info
+[0.371s] -- Detecting CXX compiler ABI info - done
+[0.377s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.377s] -- Detecting CXX compile features
+[0.377s] -- Detecting CXX compile features - done
+[0.380s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.492s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.562s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.613s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.614s] -- Added test 'lint_cmake' to check CMake code style
+[0.614s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.615s] -- Added test 'xmllint' to check XML markup files
+[0.616s] -- Configuring done
+[0.618s] -- Generating done
+[0.620s] -- Build files have been written to: /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2
+[0.624s] Invoked command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2' returned '0': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake /home/ziyue/Project/chapt6/chapt6_ws/src/fishbot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2
+[0.625s] Invoking command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2 -- -j32 -l32
+[0.655s] Invoked command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2' returned '0': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --build /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2 -- -j32 -l32
+[0.663s] Invoking command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2
+[0.668s] -- Install configuration: ""
+[0.668s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/launch
+[0.668s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/launch/navigation2.launch.py
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/map
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/map/room.pgm
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/map/room.yaml
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/config
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/config/nav2_params.yaml
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/ament_index/resource_index/package_run_dependencies/fishbot_navigation2
+[0.669s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/ament_index/resource_index/parent_prefix_path/fishbot_navigation2
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/environment/ament_prefix_path.sh
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/environment/ament_prefix_path.dsv
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/environment/path.sh
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/environment/path.dsv
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.bash
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.sh
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.zsh
+[0.670s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.dsv
+[0.671s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/package.dsv
+[0.671s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/ament_index/resource_index/packages/fishbot_navigation2
+[0.671s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/cmake/fishbot_navigation2Config.cmake
+[0.671s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/cmake/fishbot_navigation2Config-version.cmake
+[0.671s] -- Installing: /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_navigation2/share/fishbot_navigation2/package.xml
+[0.673s] Invoked command in '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2' returned '0': CMAKE_PREFIX_PATH=/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_navigation2:/home/ziyue/Project/chapt6/chapt6_ws/install/fishbot_description:/opt/ros/humble:/home/ziyue/catkin_ws/devel:/opt/ros/noetic /usr/bin/cmake --install /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_navigation2

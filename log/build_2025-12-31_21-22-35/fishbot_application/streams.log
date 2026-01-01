@@ -1,0 +1,46 @@
+[0.430s] Invoking command in '/home/ziyue/Project/chapt6/chapt6_ws/src/fishbot_application': PYTHONPATH=/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/fishbot_application build --build-base /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build install --record /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/install.log --single-version-externally-managed install_data
+[0.598s] running egg_info
+[0.598s] creating ../build/fishbot_application/fishbot_application.egg-info
+[0.598s] writing ../build/fishbot_application/fishbot_application.egg-info/PKG-INFO
+[0.598s] writing dependency_links to ../build/fishbot_application/fishbot_application.egg-info/dependency_links.txt
+[0.599s] writing entry points to ../build/fishbot_application/fishbot_application.egg-info/entry_points.txt
+[0.599s] writing requirements to ../build/fishbot_application/fishbot_application.egg-info/requires.txt
+[0.599s] writing top-level names to ../build/fishbot_application/fishbot_application.egg-info/top_level.txt
+[0.599s] writing manifest file '../build/fishbot_application/fishbot_application.egg-info/SOURCES.txt'
+[0.600s] reading manifest file '../build/fishbot_application/fishbot_application.egg-info/SOURCES.txt'
+[0.600s] writing manifest file '../build/fishbot_application/fishbot_application.egg-info/SOURCES.txt'
+[0.600s] running build
+[0.600s] running build_py
+[0.601s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build
+[0.601s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib
+[0.601s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] copying fishbot_application/waypoint_follower.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] copying fishbot_application/get_robot_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] copying fishbot_application/init_robot_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] copying fishbot_application/nav_to_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] copying fishbot_application/__init__.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application
+[0.601s] running install
+[0.601s] running install_lib
+[0.602s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.602s] copying /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application/waypoint_follower.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.602s] copying /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application/get_robot_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.602s] copying /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application/init_robot_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.602s] copying /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application/nav_to_pose.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.602s] copying /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build/lib/fishbot_application/__init__.py -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application
+[0.603s] byte-compiling /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application/waypoint_follower.py to waypoint_follower.cpython-310.pyc
+[0.603s] byte-compiling /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application/get_robot_pose.py to get_robot_pose.cpython-310.pyc
+[0.603s] byte-compiling /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application/init_robot_pose.py to init_robot_pose.cpython-310.pyc
+[0.603s] byte-compiling /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application/nav_to_pose.py to nav_to_pose.cpython-310.pyc
+[0.604s] byte-compiling /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application/__init__.py to __init__.cpython-310.pyc
+[0.604s] running install_data
+[0.604s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/share/ament_index
+[0.604s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/share/ament_index/resource_index
+[0.604s] creating /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/share/ament_index/resource_index/packages
+[0.604s] copying resource/fishbot_application -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/share/ament_index/resource_index/packages
+[0.604s] copying package.xml -> /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/share/fishbot_application
+[0.604s] running install_egg_info
+[0.605s] Copying ../build/fishbot_application/fishbot_application.egg-info to /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages/fishbot_application-0.0.0-py3.10.egg-info
+[0.606s] running install_scripts
+[0.618s] Installing init_robot_pose script to /home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/fishbot_application
+[0.618s] writing list of installed files to '/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/install.log'
+[0.635s] Invoked command in '/home/ziyue/Project/chapt6/chapt6_ws/src/fishbot_application' returned '0': PYTHONPATH=/home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ziyue/Project/chapt6/chapt6_ws/src/install/fishbot_application/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/fishbot_application build --build-base /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/build install --record /home/ziyue/Project/chapt6/chapt6_ws/src/build/fishbot_application/install.log --single-version-externally-managed install_data
