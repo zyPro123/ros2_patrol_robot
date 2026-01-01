@@ -48,3 +48,4 @@ ros2 launch fishbot_navigation2 navigation2.launch.py
 
 source install/setup.bash
 ros2 launch autopatrol_robot autopatrol.launch.py# ros2_patrol_robot
+# ros2_patrol_robot
